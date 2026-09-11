@@ -1,4 +1,4 @@
-# meus-desafios-criativos
+# Prompt para que uma AI-GEN consiga ajudar a configurar o N8N
 Atue como um especialista em N8N.
 Crie uma automação para identificar em uma planilha de Excel (armazenada na raiz do Google Drive com o nome "Vara_Civil.xlsx") os e-mails pendentes, disparar mensagens personalizadas via Gmail e atualizar a planilha com a data e o status do envio.
 
